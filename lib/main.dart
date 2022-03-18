@@ -61,6 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
 class TextWidget extends StatelessWidget {
   const TextWidget({Key? key, required this.text}) : super(key: key);
 
+  
   final String text;
 
   @override
